@@ -1,5 +1,0 @@
-D:\ci\hackaton\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
-D:\ci\hackaton\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.SuggestedBindingRedirects.cache
-D:\ci\hackaton\ConsoleApplication1\x64\Debug\ConsoleApplication1.MyForm.resources
-D:\ci\hackaton\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.GenerateResource.cache
-D:\ci\hackaton\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
