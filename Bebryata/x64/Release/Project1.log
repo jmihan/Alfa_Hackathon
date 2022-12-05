@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\ci\hackaton\final(\Project1\MyForm.cpp(16,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+D:\ci\hackaton\final(\Project1\MyForm.cpp(59,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(63,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(67,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(71,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(75,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(79,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(83,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(87,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(91,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(99,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\hackaton\final(\Project1\MyForm.cpp(151,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> D:\ci\hackaton\final(\Project1\x64\Release\Project1.exe
